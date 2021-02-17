@@ -16,8 +16,6 @@ CircuitSymphony can solve circuits comprised of 100s of thousands of elements th
 
 CircuitSymphony naturally handles modification, addition, and removal of circuit elements during runtime, as long as the change doesn't lead to a singular circuit matrix (such as open current sources or short circuit). Since the original goal of developing the headless server operation in CircuitSymphony was to analyze circuits made of bipolar passive devices, a token-based service layer allows multiple clients to perform simulations isolated from other users. Each user can create, modify and destroy circuits where the service layer resolves resource allocation and administers tasks. This property is useful in simulating dynamic circuits with randomly disappearing connections that, for example, can be observed in nanoscale composites.
 
-<strong>Community</strong>
-
 <strong>Acknowledgments</strong>
 Paul Falstad for the original Java code (http://www.falstad.com/mathphysics.html) 
 
