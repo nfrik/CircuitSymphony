@@ -31,3 +31,7 @@ We want to thank Freescale LLC (NC, USA) for providing components for this softw
 <strong>Timothy A. Davis, Ekanathan Palamadai Natarajan. Algorithm 907. ACM Transactions on Mathematical Software 37, 1–17 Association for Computing Machinery (ACM), 2010.</strong>
 
 <strong>Xiaoming Chen, Yu Wang, Huazhong Yang. NICSLU: An Adaptive Sparse Matrix Solver for Parallel Circuit Simulation. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 32, 261–274 Institute of Electrical and Electronics Engineers (IEEE), 2013. </strong>
+
+
+
+[![DOI](https://zenodo.org/badge/339568604.svg)](https://zenodo.org/badge/latestdoi/339568604)
