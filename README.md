@@ -1,5 +1,4 @@
 # CircuitSymphony
-# CircuitSymphony
 Circuit simulation as a service
 
 CircuitSymphony is a software tool for transient analysis of large circuits primarily made of passive nonlinear bipolar devices such as memristors, capacitors, and diodes with algorithms ported from Pillage et al. (Pillage 1994). The goal was to provide circuit simulation capabilities as a service with an option for horizontal scalability and support for multiprocessing in a publisher-subscriber pattern. 
