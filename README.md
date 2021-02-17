@@ -1,4 +1,5 @@
 # CircuitSymphony
+# CircuitSymphony
 Circuit simulation as a service
 
 CircuitSymphony is a software tool for transient analysis of large circuits primarily made of passive nonlinear bipolar devices such as memristors, capacitors, and diodes with algorithms ported from Pillage et al. (Pillage 1994). The goal was to provide circuit simulation capabilities as a service with an option for horizontal scalability and support for multiprocessing in a publisher-subscriber pattern. 
@@ -27,6 +28,7 @@ This project was supported by NSF grants no. 1748459, 1608847.
 We want to thank Freescale LLC (NC, USA) for their support in developing components for this software.
 
 <strong>Bibliography</strong>
+
 <strong>L. Pillage, R. Rohrer, C. Visweswariah. Electronic Circuit and System Simulation Methods. Mcgraw-Hill, 1994 </strong>
 
 <strong>Timothy A. Davis, Ekanathan Palamadai Natarajan. Algorithm 907. ACM Transactions on Mathematical Software 37, 1–17 Association for Computing Machinery (ACM), 2010.</strong>
