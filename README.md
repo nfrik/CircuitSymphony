@@ -24,7 +24,7 @@ Paul Falstad for the original Java code (http://www.falstad.com/mathphysics.htm
 Developers of the circuitmod project for inspiring current version https://sourceforge.net/projects/circuitmod/
 
 This project was supported by NSF grants no. 1748459, 1608847.
-We want to thank Freescale LLC (NC, USA) for their support in developing components for this software.
+We want to thank Freescale LLC (NC, USA) for providing components for this software.
 
 <strong>Bibliography</strong>
 
