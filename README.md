@@ -34,4 +34,4 @@ We want to thank Freescale LLC (NC, USA) for providing components for this softw
 
 
 
-[![DOI](https://zenodo.org/badge/339568604.svg)](https://zenodo.org/badge/latestdoi/339568604)
+If you would like to cite this software, please use this DOI: [![DOI](https://zenodo.org/badge/339568604.svg)](https://zenodo.org/badge/latestdoi/339568604)
