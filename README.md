@@ -8,8 +8,6 @@ CircuitSymphony naturally handles modification, addition, and removal of circuit
 
 CircuitSymphony naturally handles modification, addition, and removal of circuit elements during runtime, as long as the change doesn't lead to a singular circuit matrix (such as open current sources or short circuit). Since the original goal of developing the headless server operation in CircuitSymphony was to analyze circuits made of bipolar passive devices, a token-based service layer allows multiple clients to perform simulations isolated from other users. Each user can create, modify and destroy circuits where the service layer resolves resource allocation and administers tasks. This property is advantageous in simulating dynamic circuits with randomly disappearing connections, that can be observed in nanoscale composites.
 
-L. Pillage, R. Rohrer, C. Visweswariah. Electronic Circuit and System Simulation Methods. Mcgraw-Hill, 1994
+<strong>L. Pillage, R. Rohrer, C. Visweswariah. Electronic Circuit and System Simulation Methods. Mcgraw-Hill, 1994 </strong>
 
-Xiaoming Chen, Yu Wang, Huazhong Yang. NICSLU: An Adaptive Sparse Matrix Solver for Parallel Circuit Simulation. 
-IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 32, 261–274 Institute of Electrical 
-and Electronics Engineers (IEEE), 2013.
+<strong>Xiaoming Chen, Yu Wang, Huazhong Yang. NICSLU: An Adaptive Sparse Matrix Solver for Parallel Circuit Simulation. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 32, 261–274 Institute of Electrical and Electronics Engineers (IEEE), 2013. </strong>
